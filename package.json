@@ -1,13 +1,13 @@
 {
-  "name": "atom-twlight-dusk-syntax",
+  "name": "atom-twilight-dusk-syntax",
   "theme": "syntax",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Twilight Dusk is a variant of Twilight, featuring more muted colors.",
   "keywords": [
     "syntax",
     "theme"
   ],
-  "repository": "https://github.com/mgoggin/atom-twilight-dusk-theme",
+  "repository": "https://github.com/mgoggin/atom-twilight-dusk-syntax",
   "license": "MIT",
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
